@@ -7,15 +7,6 @@ ___
 <img src="/static/Group 48.png" width="100%">
 <br/><br/>
 
-#### Features
-
-
-#### Setup Instructions
-```sh
-git clone https://github.com/vansh2308/Landcover-classifier.git
-cd ./Imseg-GMM_EM
-```
-<br/>
 
 #### Author
 - Github - [vansh2308](https://github.com/vansh2308)
